@@ -2,7 +2,7 @@
 
 [![English](https://img.shields.io/badge/🇬🇧_English-00D9FF?style=for-the-badge&labelColor=0D1117)](README.md)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Phuc+Nguyen;AI+Engineer+%7C+Data+Scientist;Deep+Learning+Researcher;Computer+Vision+%7C+Clustering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Nguyen+Phuc+Nguyen;AI+Engineer+%7C+Data+Scientist;Deep+Learning+Researcher;Computer+Vision+%7C+Clustering" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/PhucNguyenne?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF)](https://github.com/PhucNguyenne)
 [![Profile Views](https://komarev.com/ghpvc/?username=PhucNguyenne&color=00D9FF&style=flat-square&label=Views)](https://github.com/PhucNguyenne)
