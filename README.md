@@ -151,9 +151,9 @@ Designed and developed a comprehensive educational lab notebook for the Faculty 
 
 <div align="center">
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-your.email%40gmail.com-00D9FF?style=for-the-badge&labelColor=0D1117)](mailto:your.email@gmail.com)
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-your.email%40gmail.com-00D9FF?style=for-the-badge&labelColor=0D1117)](mailto:phucnguyen2892k4@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Phuc_Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Phuc_Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/phucnguyenne)
 
 [![Visit Portfolio](https://img.shields.io/badge/🌐_Portfolio_/_Blog-phucnguyenne.github.io-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](#)
 
