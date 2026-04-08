@@ -135,11 +135,11 @@ Designed and developed a comprehensive educational lab notebook for the Faculty 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PhucNguyenne&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=PhucNguyenne&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" /> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhucNguyenne&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=10" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucNguyenne&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="Top Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucNguyenne&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="Top Languages" /> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhucNguyenne&theme=github-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=00D9FF&area=true&area_color=00D9FF" alt="Contribution Graph" />
 
