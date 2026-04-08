@@ -19,7 +19,7 @@
 | Role                      | Focus                                                                                               |
 | :------------------------ | :-------------------------------------------------------------------------------------------------- |
 | **AI Researcher** | Medical image segmentation (BraTS dataset), hybrid architectures (SwinViT + CNN), model pruning     |
-| **Data Scientist** | Customer behavior analysis, advanced clustering (DEC), predictive modeling                      |
+| **Data Scientist** | Customer behavior analysis, advanced clustering, predictive modeling                      |
 | **Machine Learning Eng.** | Deep Embedded Clustering, Deep Reinforcement Learning, data processing pipelines                    |
 | **Software Developer** | Building robust demo applications, integrating AI with IoT (CanSat networks), Jupyter Lab authoring |
 
