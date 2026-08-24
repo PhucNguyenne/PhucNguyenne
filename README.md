@@ -114,9 +114,10 @@ Shipped a lightweight **Flask** prototype for real-time visualization and abnorm
 | Project | Description |
 | :--- | :--- |
 | **SKY-SENTRY HCMC** | CanSat sensor network for air-quality monitoring across Ho Chi Minh City — technical specification, deployment planning, and the environmental data analysis pipeline. |
-| **Customer Segmentation Analytics** | HDBSCAN-based clustering of customer shopping behavior, framed around SMART objectives to surface actionable business insights. |
-| **Deep Embedded Clustering Lab** | Educational lab notebook authored for the Faculty of Information Technology, teaching DEC implementation on the AG News dataset. |
-
+| **Face Detection and Prediction (Age/Gender/Emotion)** | Built an end-to-end facial attribute analysis pipeline (age, gender, emotion) for consumer behavior tracking, utilizing
+MTCNN for face alignment, a ResNet18 backbone for classification, and SQLite for automated data storage. |
+| **Weather Forecast Website** | Developed and containerized a 7-day weather forecasting web application using Flask and Docker, implementing
+Random Forest algorithms to process historical API data from Visual Crossing. |
 </details>
 
 ---
