@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/PhucNguyenne?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF)](https://github.com/PhucNguyenne)
 [![Profile Views](https://komarev.com/ghpvc/?username=PhucNguyenne&color=00D9FF&style=flat-square&label=Views)](https://github.com/PhucNguyenne)
 [![Publications](https://img.shields.io/badge/Publications-3-00D9FF?style=flat-square&labelColor=0D1117)](#publications)
-[![Status](https://img.shields.io/badge/Status-Open_to_work-00D9FF?style=flat-square&labelColor=0D1117)](#)
+
 
 </div>
 
