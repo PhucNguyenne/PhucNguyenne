@@ -36,7 +36,7 @@ My research spans **medical image segmentation**, **EEG signal decoding (Brain�
 | :--: | :--- | :--- | :--: |
 | **2026** | Automated Wood and Leaf Separation: A Comprehensive Review on Advanced Methods and Forestry Applications | **IEEE Access** — *Q1 SCI, IF 4.2* | Co-author |
 | **2026** | ATCNet-CIAM for Multi-Session Motor Imagery EEG Signal Classification | **ISRSD 2026** — *Accepted* | Co-author |
-| **2025** | Swin-PResU: Hybrid SwinViT and Pruned Residual CNN for Precise Brain Tumor MRI Segmentation | **RIVF 2025** — *IEEE Xplore* | **First author** |
+| **2025** | Swin-PResU: Hybrid SwinViT and Pruned Residual CNN for Precise Brain Tumor MRI Segmentation | **RIVF 2025**  | **First author** |
 
 </div>
 
