@@ -190,17 +190,7 @@ Shipped a lightweight **Flask** prototype for real-time visualization and abnorm
 
 **Languages:** Vietnamese (Native) · English (B2)
 
----
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhucNguyenne&theme=github-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=00D9FF&area=true&area_color=00D9FF" alt="Contribution Graph" />
-
-</div>
-
----
 
 ## Let's Connect
 
