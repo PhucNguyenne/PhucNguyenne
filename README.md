@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Nguyen+Phuc+Nguyen;AI+Engineer+%7C+AI+Researcher;Deep+Learning+%7C+Computer+Vision;Medical+Imaging+%7C+EEG+%7C+GenAI" alt="Typing SVG" />
 
