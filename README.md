@@ -118,6 +118,7 @@ Shipped a lightweight **Flask** prototype for real-time visualization and abnorm
 MTCNN for face alignment, a ResNet18 backbone for classification, and SQLite for automated data storage. |
 | **Weather Forecast Website** | Developed and containerized a 7-day weather forecasting web application using Flask and Docker, implementing
 Random Forest algorithms to process historical API data from Visual Crossing. |
+
 </details>
 
 ---
