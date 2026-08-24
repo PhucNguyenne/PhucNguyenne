@@ -55,11 +55,6 @@ A comprehensive review systematizing traditional, machine learning, and deep lea
 
 An attention-augmented architecture integrating a **frequency-band-aware channel attention module (CIAM)** into ATCNet to improve robustness of multi-session motor imagery decoding.
 
-| Benchmark | Accuracy |
-| :--- | :--: |
-| BCI IV-2a | **86.32%** |
-| BCI IV-2b | **87.96%** |
-| WBCIC-MI 2C (within-session) | **89.46%** |
 
 ### Swin-PResU — *RIVF 2025 (IEEE Xplore)* · First Author
 **`Medical Imaging`** **`SwinViT`** **`MONAI`** **`Model Pruning`**
