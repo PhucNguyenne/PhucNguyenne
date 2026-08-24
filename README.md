@@ -174,7 +174,7 @@ Shipped a lightweight **Flask** prototype for real-time visualization and abnorm
 - **GenAI & NLP:** RAG pipelines, Dify, LLM fine-tuning, prompt engineering, MPNet / BERT-family models
 - **Databases & Storage:** SQL, NoSQL, Neo4j (Graph DB), MinIO (Object Storage)
 - **MLOps & Deployment:** Docker, Flask, Git, Linux, ETL & sensor-data ingestion pipelines
-- **Environments:** Google Colab, Jupyter, VS Code
+- **Environments:** Linux server, Google Colab, Jupyter, VS Code
 
 </details>
 
