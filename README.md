@@ -56,7 +56,7 @@ A comprehensive review systematizing traditional, machine learning, and deep lea
 An attention-augmented architecture integrating a **frequency-band-aware channel attention module (CIAM)** into ATCNet to improve robustness of multi-session motor imagery decoding.
 
 
-### Swin-PResU — *RIVF 2025 (IEEE Xplore)* · First Author
+### Swin-PResU — *RIVF 2025* 
 **`Medical Imaging`** **`SwinViT`** **`MONAI`** **`Model Pruning`**
 
 A hybrid architecture pairing a **Swin Transformer encoder** with a **pruned residual CNN decoder** for brain tumor MRI segmentation. Led architecture design, built the preprocessing pipeline in MONAI, and ran extensive comparisons against established baselines on **BraTS 2020** — reaching a **mean Dice score of 86.22%**, evaluated with DSC and HD95.
